@@ -1,6 +1,7 @@
 # From-HippoRag-to-brain-language-networks
 
 Przydatne linki:
+- [Llama3.2-3B na HuggingFace](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
 - [Główny HippoRAG paper](https://arxiv.org/abs/2405.14831)
 - [Repo do HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)
 - [O działaniu mózgu + LLM](https://www.annualreviews.org/content/journals/10.1146/annurev-neuro-120623-101142)
